@@ -1,9 +1,11 @@
 h1 {
     font-family: 'Bitter', serif;
     text-align: center;
-    color: black;
+    color: white;
 }
 
 #header {
-    background-color: #F6AE2D;
+    background-color: #73937E;
+    margin: 5px;
+    padding: 5px;
 }
